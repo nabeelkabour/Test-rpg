@@ -1,0 +1,34 @@
+﻿  main.cpp
+C:\Users\nabee\Documents\C++\olc Game Engine RPG\Pages.h(11,27): error C3646: 'main_menu': unknown override specifier
+C:\Users\nabee\Documents\C++\olc Game Engine RPG\Pages.h(11,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\nabee\Documents\C++\olc Game Engine RPG\Pages.h(12,27): error C3646: 'name_page': unknown override specifier
+  Game.cpp
+C:\Users\nabee\Documents\C++\olc Game Engine RPG\Pages.h(12,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\nabee\Documents\C++\olc Game Engine RPG\Pages.h(11,27): error C3646: 'main_menu': unknown override specifier
+C:\Users\nabee\Documents\C++\olc Game Engine RPG\Pages.h(11,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\nabee\Documents\C++\olc Game Engine RPG\Pages.h(12,27): error C3646: 'name_page': unknown override specifier
+C:\Users\nabee\Documents\C++\olc Game Engine RPG\Pages.h(12,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\nabee\Documents\C++\olc Game Engine RPG\Game.cpp(12,28): error C2039: 'main_menu': is not a member of 'PageState'
+C:\Users\nabee\Documents\C++\olc Game Engine RPG\Game.h(29): message : see declaration of 'PageState'
+  Pages.cpp
+C:\Users\nabee\Documents\C++\olc Game Engine RPG\Game.cpp(12,37): error C2065: 'main_menu': undeclared identifier
+C:\Users\nabee\Documents\C++\olc Game Engine RPG\Pages.h(11,27): error C3646: 'main_menu': unknown override specifier
+C:\Users\nabee\Documents\C++\olc Game Engine RPG\Pages.h(11,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\nabee\Documents\C++\olc Game Engine RPG\Pages.h(12,27): error C3646: 'name_page': unknown override specifier
+C:\Users\nabee\Documents\C++\olc Game Engine RPG\Pages.h(12,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\nabee\Documents\C++\olc Game Engine RPG\Pages.cpp(7,37): error C2039: 'name_page': is not a member of 'PageState'
+C:\Users\nabee\Documents\C++\olc Game Engine RPG\Pages.h(8): message : see declaration of 'PageState'
+  Startup.cpp
+C:\Users\nabee\Documents\C++\olc Game Engine RPG\Pages.cpp(7,46): error C2065: 'name_page': undeclared identifier
+C:\Users\nabee\Documents\C++\olc Game Engine RPG\Pages.h(11,27): error C3646: 'main_menu': unknown override specifier
+C:\Users\nabee\Documents\C++\olc Game Engine RPG\Pages.h(11,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\nabee\Documents\C++\olc Game Engine RPG\Pages.h(12,27): error C3646: 'name_page': unknown override specifier
+C:\Users\nabee\Documents\C++\olc Game Engine RPG\Pages.h(12,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\nabee\Documents\C++\olc Game Engine RPG\Startup.cpp(16,99): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\nabee\Documents\C++\olc Game Engine RPG\Startup.cpp(16,49): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\nabee\Documents\C++\olc Game Engine RPG\Startup.cpp(21,99): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\nabee\Documents\C++\olc Game Engine RPG\Startup.cpp(21,49): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\nabee\Documents\C++\olc Game Engine RPG\Startup.cpp(58,99): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\nabee\Documents\C++\olc Game Engine RPG\Startup.cpp(58,49): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\nabee\Documents\C++\olc Game Engine RPG\Startup.cpp(66,100): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\nabee\Documents\C++\olc Game Engine RPG\Startup.cpp(66,49): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
